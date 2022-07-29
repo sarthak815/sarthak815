@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h1 align="center" > Hi, I am Sarthak Shastri 👋</h1>
 
-![hello world](hhttps://github.com/sarthak815/sarthak815/blob/main/coding.gif)
+![hello world](https://github.com/sarthak815/sarthak815/blob/main/coding.gif)
 
 <hr/>
 
