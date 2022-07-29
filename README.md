@@ -14,7 +14,7 @@
 </div>
 
 
-I am an Information Technology final year undergrad studying at the **Manipal Institute Of Technology**. I enjoy working on machine learning and artificial intelligence projects. Currently I am trying my hand at blockchain protocol development working at Sarva.ai 
+I am an Information Technology final year undergrad studying at the **Manipal Institute Of Technology**. I enjoy working on **Machine Learning and artificial Intelligence** development. Currently I am trying my hand at blockchain protocol development working at **Sarva Labs** .
 ## 🔗 Connect with me on :
 
 [![Connect on LinkedIn](https://img.shields.io/badge/--website?label=My%20Website&logo=awesome-lists&style=social&logoColor=2257ea)](https://sarthak-shastri.netlify.app/)
