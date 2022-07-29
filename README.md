@@ -1,8 +1,8 @@
 
 <h1 align="center" > Hi, I am Sarthak Shastri 👋</h1>
-<center>
+<p align="center">
 ![hello world](https://github.com/sarthak815/sarthak815/blob/main/coding.gif)
-</center>
+</p>
 <hr/>
 
 <div align="center">
