@@ -19,7 +19,7 @@ I am an Information Technology final year undergrad studying at the **Manipal In
 
 [![Connect on LinkedIn](https://img.shields.io/badge/--website?label=My%20Website&logo=awesome-lists&style=social&logoColor=2257ea)](https://sarthak-shastri.netlify.app/)
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/sarthak-s-676285186/)
-[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/sarthakshastri)
+[![Follow on Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=sBA_RI8AAAAJ&hl=en)
 
 ### 👀 visitor count
 
