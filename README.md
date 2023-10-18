@@ -13,7 +13,8 @@
 </div>
 
 
-I am an Information Technology final year undergrad studying at the **Manipal Institute Of Technology**. I enjoy working on **Machine Learning and Artificial Intelligence** development. Currently I am trying my hand at blockchain protocol development working at **Sarva Labs** .
+I am doing my MS in Computer Science at **Northeastern University**. I enjoy working on **Computer Systems** and **Machine Learning** development. Currently, I am in the first semester of
+my MS degree, studying Programming Design Paradigms and Computer Systems this semester. 
 ## 🔗 Connect with me on :
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://sarthak-shastri.netlify.app/)
