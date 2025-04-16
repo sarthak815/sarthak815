@@ -13,8 +13,8 @@
 </div>
 
 
-I am doing my MS in Computer Science at **Northeastern University**. I enjoy working on **Computer Systems** and **Machine Learning** development. Currently, I am in the second semester of
-my MS degree, studying Algorithms and Unsupervised Machine Learning this semester. 
+I am doing my MS in Computer Science at **Northeastern University**. I enjoy working on **Computer Systems** and **Machine Learning** development. Currently, I in the final semester of
+my MS degree, studying studying Software Security and Vulnerabilities.
 ## 🔗 Connect with me on :
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://sarthak-shastri.netlify.app/)
