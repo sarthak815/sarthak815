@@ -13,7 +13,7 @@
 </div>
 
 
-I am doing my MS in Computer Science at **Northeastern University**. I enjoy working on **Computer Systems** and **Machine Learning** development. Currently, I in the final semester of
+I am doing my MS in Computer Science at **Northeastern University**. I enjoy working on **Computer Systems** and **Machine Learning** development. Currently, I am in the final semester of
 my MS degree, studying studying Software Security and Vulnerabilities.
 ## 🔗 Connect with me on :
 
